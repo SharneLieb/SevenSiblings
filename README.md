@@ -1,2 +1,5 @@
 # SevenSiblings
-Seven Siblings: Insurance-as-Code. Fully agentic short-term insurance brokerage with proprietary SCL liability math for autonomous vehicles (AVs). Built December 16, 2025.
+Seven Siblings: World’s first fully agentic short-term insurance brokerage concept and runnable prototype - built December 16, 2025
+
+
+
